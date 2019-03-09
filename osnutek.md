@@ -8,9 +8,9 @@ V ekipi sva:
 
 ## Podatki ##
 
-Izbrala sva si Evidenco registriranih vozil v Sloveniji.
-Vir: https://podatki.gov.si/dataset/evidenca-registriranih-vozil-presek-stanja 
-Podatki so v tabelarični obliki (csv).
+Izbrala sva si Evidenco registriranih vozil v Sloveniji.  
+Vir: https://podatki.gov.si/dataset/evidenca-registriranih-vozil-presek-stanja   
+Podatki so v tabelarični obliki (csv).  
 
 ## Hipoteze oz. cilji projektne naloge ##
 
