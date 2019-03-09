@@ -16,11 +16,9 @@ Podatki so v tabelarični obliki (csv).
 
 Poskušala bova odgovoriti na naslednja vprašanja:
 
-avtomobili med leti 2000,2001 in 2010, 2018
-
-* Ali so SUV vozila res bolj popularna v zadnjih 3 letih?
-* Razlika po številu na novo registriranih dizelskih in benzinskih avtomobilov(vozil?) v zadnjih 5 letih?
-* Ali v večjih mestih prevladujejo manjši(hatchback) avtomobili proti večjim(limuzine, SUV, karavan)? 
-* Kakšne avtomobile raje kupujejo mladi vozniki?
-* V katerem starostnem obdobju se prbivalci slovenije raje odločajo za električna vozila?
-* Ali se Slovenci z leti raje odločajo za električna vozila (obdobje zadnjih 3h let)
+* Kakšne so razlike pri registriranih avtomobilih med obema spoloma (ali moški kupujejo močnejše, večje avtomobile, ali ženske bolj gledajo na porabo kot moški, itd.)?
+* Razlika po številu na novo registriranih dizelskih in benzinskih avtomobilov v zadnjih 5 letih?
+* Ali v večjih mestih prevladujejo manjši avtomobili proti večjim? 
+* Kakšne avtomobile raje kupujejo mladi vozniki (glede na nazivno moč, porabo, ...)?
+* V katerem starostnem obdobju se prebivalci Slovenije raje odločajo za električna vozila, ali na to vpliva tudi spol?
+* Ali se Slovenci v zadnjih letih raje odločajo za električna vozila (obdobje zadnjih treh let)?
