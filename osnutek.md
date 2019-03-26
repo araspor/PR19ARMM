@@ -8,9 +8,15 @@ V ekipi sva:
 
 ## Podatki ##
 
-Izbrala sva si Evidenco registriranih vozil v Sloveniji.  
+Prvotno sva si izbrala Evidenco registriranih vozil v Sloveniji.  
 Vir: https://podatki.gov.si/dataset/evidenca-registriranih-vozil-presek-stanja   
 Podatki so v tabelarični obliki (csv).  
+
+Po krajšem razmisleku sva se odločila, da bo za naše hipoteze bolj ustrezna množica podatkov prvič registriranih vozil v Sloveniji, po mesecih.
+Vir: https://podatki.gov.si/dataset/prvic-registrirana-vozila-po-mesecih
+Podatki so v tabelarični obliki (csv). 
+
+Podatki so na voljo od leta 2012 in ker jih je zelo veliko sva izbrala le podatke iz let 2012, 2015, 2018 ter prvih dveh mesecov 2019. Tako bova lahko primerjala registracije vozil v Sloveniji vsaka 3 leta in pri tem opazovala spremembe v kriterijih nakupov vozil (ali je danes več električnih, glede na porabo, itd.).
 
 ## Hipoteze oz. cilji projektne naloge ##
 
