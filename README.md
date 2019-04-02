@@ -1,10 +1,11 @@
 # PR19ARMM - Analiza novo registriranih avtomobilov v Sloveniji skozi leta
 ## Vmesno poročilo
-### Ekipa
+
+## Ekipa
 * Andraž Raspor
 * Matjaž Možina
 
-### Podatki
+## Podatki
 Vir: https://podatki.gov.si/dataset/prvic-registrirana-vozila-po-mesecih
 Uporabljala bova podatke iz portala Odprti podatki Slovenije. Vzela sva množico podatkov o prvic registriranih vozilih v Sloveniji po mesecih. Ker je podatkov ogromno, sva se odločila vzeti le podatke iz let 2012, 2015, 2018 in prvih dveh mesecev leta 2019. Vsi podatki so v formatu csv.
 
@@ -14,7 +15,7 @@ Podatki so beleženi od leta 2012 naprej, zaradi velike količine pa sva, kot se
 
 Za branje podatkov sva uporabila knjižnico pandas, ki omogoča enostavno branje formata csv. Ker podatki vsebujejo tudi šumnike, sva uporabila encoding cp1252.
 
-### Opis atributov in vrednosti
+## Opis atributov in vrednosti
 Za najine potrebe, vsi stolpci niso bili potrebni. Iz podatkov iz let 2015, 2018 in 2019 sva vzela le naslednje stolpce:
 
 * Datum prve registracije, kjerkoli in nato še samo v SLO - zvezna atributa
@@ -36,7 +37,7 @@ Za najine potrebe, vsi stolpci niso bili potrebni. Iz podatkov iz let 2015, 2018
 
 Ker so bile leta 2012 drugačne oznake in manj stolpcev, sva iz tistih podatkov vzela vse stolpce.
 
-### Vprašanja oz. hipoteze
+## Vprašanja oz. hipoteze
 
 Poskušala bova odgovoriti na naslednja vprašanja:
 
@@ -47,12 +48,22 @@ Poskušala bova odgovoriti na naslednja vprašanja:
 * V katerem starostnem obdobju se prebivalci Slovenije raje odločajo za električna vozila, ali na to vpliva tudi spol?
 * Ali se Slovenci v zadnjih letih raje odločajo za električna vozila?
 
-### Ugotovitve
+## Ugotovitve
 
-* Razlika po številu na novo registriranih dizelskih in benzinskih avtomobilov v zadnjih šestih letih?
+### Razlika po številu na novo registriranih dizelskih in benzinskih avtomobilov v zadnjih šestih letih?
 
-* Ali v večjih mestih prevladujejo manjši avtomobili proti večjim?
+### Ali v večjih mestih prevladujejo manjši avtomobili proti večjim?
 
-* V katerem starostnem obdobju se prebivalci Slovenije raje odločajo za električna vozila, ali na to vpliva tudi spol?
+### Ali se Slovenci v zadnjih letih raje odločajo za električna vozila?
+Pri tej hipotezi naju je zanimalo ali se število električnih avtomobilov v Sloveniji povečuje. Glede na to, da so se električni avtomobili v zadnjih letih zelo razvili ter so sedaj veliko bolj učinkoviti, močnejši ter cenejši kot včasih, sva pričakovala narastek v registracijah električnih avtomobilov.
 
-* Ali se Slovenci v zadnjih letih raje odločajo za električna vozila?
+Vzela sva podatke iz let 2012, 2015, 2018 in prvih dveh mesecev leta 2019, da bi lahko primerjala število električnih avtomobilov skozi leta. Izkazalo se je, da sva sklepala pravilno. Število na novo registriranih električnih avtomobilov iz leta v leto narašča. Leta 2012 je bilo namreč registriranih le 24 takšnih osebnih vozil, leta 2015 je to število krepko naraslo na 144 električnih avtomobilov, leta 2018 pa je bilo registriranih 569 električnih avtomobilov. V januarju in februarju letošnjega leta je bilo že registriranih 99 električnih osebnih vozil. Vse to je razvidno iz grafa, kjer je prikazano število registracij vsako leto.
+
+![Elektricni](images/st_elek_po_letih.png)
+
+Zanimalo naju je tudi, katera znamka je najbolj popularna v Sloveniji. Iz zgornjega grafa je razvidno, da je največ registriranih avtomobilov znamke Renault, blizu sta ji Nissan in BMW, kar nekaj avtomobilov pa je tudi znamk Smart, Hyundai in Volkswagen. To so števila za leta 2012, 2015 in 2018 skupaj.
+
+![ElektricniZnamke](images/popularnost_znamk_elektricnih.png)
+
+### V katerem starostnem obdobju se prebivalci Slovenije raje odločajo za električna vozila, ali na to vpliva tudi spol?
+
