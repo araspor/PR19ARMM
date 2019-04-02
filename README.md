@@ -57,13 +57,26 @@ Poskušala bova odgovoriti na naslednja vprašanja:
 ### Ali se Slovenci v zadnjih letih raje odločajo za električna vozila?
 Pri tej hipotezi naju je zanimalo ali se število električnih avtomobilov v Sloveniji povečuje. Glede na to, da so se električni avtomobili v zadnjih letih zelo razvili ter so sedaj veliko bolj učinkoviti, močnejši ter cenejši kot včasih, sva pričakovala narastek v registracijah električnih avtomobilov.
 
-Vzela sva podatke iz let 2012, 2015, 2018 in prvih dveh mesecev leta 2019, da bi lahko primerjala število električnih avtomobilov skozi leta. Izkazalo se je, da sva sklepala pravilno. Število na novo registriranih električnih avtomobilov iz leta v leto narašča. Leta 2012 je bilo namreč registriranih le 24 takšnih osebnih vozil, leta 2015 je to število krepko naraslo na 144 električnih avtomobilov, leta 2018 pa je bilo registriranih 569 električnih avtomobilov. V januarju in februarju letošnjega leta je bilo že registriranih 99 električnih osebnih vozil. Vse to je razvidno iz grafa, kjer je prikazano število registracij vsako leto.
+Vzela sva podatke iz let 2012, 2015, 2018 in prvih dveh mesecev leta 2019, da bi lahko primerjala število električnih avtomobilov skozi leta. Izkazalo se je, da sva sklepala pravilno.
+Število na novo registriranih električnih avtomobilov iz leta v leto narašča.
+Leta 2012 je bilo namreč registriranih le 24 takšnih osebnih vozil, leta 2015 je to število krepko naraslo na 144 električnih avtomobilov, leta 2018 pa je bilo registriranih 569 električnih avtomobilov.
+V januarju in februarju letošnjega leta je bilo registriranih že 99 električnih osebnih vozil, kar je več kot celega leta 2012.
 
 ![Elektricni](images/st_elek_po_letih.png)
 
-Zanimalo naju je tudi, katera znamka je najbolj popularna v Sloveniji. Iz zgornjega grafa je razvidno, da je največ registriranih avtomobilov znamke Renault, blizu sta ji Nissan in BMW, kar nekaj avtomobilov pa je tudi znamk Smart, Hyundai in Volkswagen. To so števila za leta 2012, 2015 in 2018 skupaj.
+Zanimalo naju je tudi, katera znamka je najbolj popularna v Sloveniji. Iz spodnjega grafa je razvidno, da je največ registriranih avtomobilov znamke Renault, blizu sta ji Nissan in BMW, kar nekaj avtomobilov pa je tudi znamk Smart, Hyundai in Volkswagen. To so števila za leta 2012, 2015 in 2018 skupaj.
 
 ![ElektricniZnamke](images/popularnost_znamk_elektricnih.png)
 
 ### V katerem starostnem obdobju se prebivalci Slovenije raje odločajo za električna vozila, ali na to vpliva tudi spol?
+Ker se je število električnih avtomobilov krepko povečalo, naju je zanimalo ali na nakup električnih vozil vplivata starost in spol uporabnika. Sklepava, da se za tovrstne avtomobile odločajo starejše starostne skupine, misliva pa da spol nima prevelikega vpliva na to.
 
+Iz spodnjega grafa je razvidno, da so moški registrirali več električnih avtomobilov kot ženske.
+Možno je, da moški na sploh registrirajo več avtomobilov, zato tukaj ne moremo zagotovo trditi, da spol vpliva na nakup električnih avtomobilov.
+
+![ElektricnaSpol](images/st_elek_spol.png)
+
+Opazila sva, da je v zgornjem grafu manj kot polovica vseh registriranih električnih osebnih vozil.
+To pomeni, da več kot polovico takšnih vozil uporabljajo pravne osebe in ne fizične, kar je tudi razvidno iz spodnjega grafa.
+
+![ElektricnaPravne](images/st_elek_pravna.png)
