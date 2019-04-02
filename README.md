@@ -50,14 +50,49 @@ Poskušala bova odgovoriti na naslednja vprašanja:
 
 ## Ugotovitve
 
-### Razlika po številu na novo registriranih dizelskih in benzinskih avtomobilov v zadnjih šestih letih?
+### Razlika po številu na novo registriranih dizelskih in benzinskih avtomobilov v zadnjih šestih letih.
+Pri tej hipotezi sva želela prikazati razliko med novo registriranimi vozili na bencin in dizel, skozi zadnjih nekaj let.
+Za prikaz sva uporabila podatke o registracijah iz let 2012, 2015,2018 in 2019 oz. sprememba na vsaka 3 leta.
+
+Kot lahko razberemo iz grafa so v splošnem dizelska vozila veliko bolj priljubljena kot bencinska, priljubljenost pa z leti tudi narašča.
+Vidimo lahko tudi, da se samo število novih registracij enakomerno veča skozi leta.
+Pri vozilih na bencin opazimo, da je število registracij v letih 2012 in 2015 približno enako, medtem ko v letu 2018 naraste za 45%.
+Število registracij dizelskih vozil pa se veča bolj enakomerno, kjer je še vedno večji preskok med leti 2015 in 2018.
+
+Prikazala sva tudi podatke za leto 2019, vendar sva imela na voljo podatke le za mesec januar in februar, kar nama ne pomaga pri dokazovanju hipoteze.
+Še vedno pa lahko vidimo, da so tudi v letošnjem letu bolj priljubljena dizelska vozila.
+
+![Goriva](images/goriva_st.png)
 
 ### Ali v večjih mestih prevladujejo manjši avtomobili proti večjim?
+Cilj te hipoteze je bil ugotoviti ali se ljudje v večjih slovenskih mestih raje odločajo za manjša vozila.
+Za prikaz sva uporabila podatke iz let 2015 ter 2018 in sicer za 10 največjih Slovenskih mest. Vozila sva razdelila v kategorije tako, da sva velikost primerjala s povprečno dolžino kombilimuzine(Hatchback), kar je 4465mm.
+Na grafu je število registracij pikazano kot odstotek manjših vozil od vseh registriranih vozil v tem mestu.
+
+2015:
+Kot lahko razberemo iz grafa za leto 2015 so bila manjša vozila s kar 60 odstotki veliko bolj popularna kot večja vozila.
+Vidimo lahko tudi, da v Trbovljah, Mariboru, Novem Mestu in Kamniku prevladujejo s kar 70 odstotki.
+Manjša vozila pa so bila v letu 2015 najbolj priljubljena v Trbovljah.
+
+![Manjsa15](images/manjsa_vozila_2015.png)
+
+2018:
+V letu 2018 je priljubljenost manjših vozil nekoliko upadla, vendar je še vedno v večinskem deležu.
+Manjša vozila v tem letu najbolj prevladujejo v Novem Mestu, Trbovljah, Mariboru in Kopru.
+V letu 2018 pa je za razliko od 2015 največji delež manjših vozil V Novem mestu, ki je bilo prej na 3. mestu po številu registracij.
+Zanimiva je tudi ugotovitev, da je delež manjših vozil v Ljubljani najmanjši in so vozila približno v enakem razmerju. Ker je Ljubljana glavno mesto sva pričakovala, da bodo manjša vozila prevladovala v veliki večini.
+Sklepava, da na majhen delež vpliva več faktorjev. Sama občina Ljubljane je
+velika, ljudje ki živijo v okolici pa verjetno ne gledajo toliko na samo
+velikost avtomobila.
+Veliko vozil je tudi v lasti pravnih oseb. Različna podjetja in ustanove uporabljajo službena vozila za vožnje na daljše razdalje, ponavadi med sedeži podjetij v različnih mestih.
+Verjetno ne gledajo preveč na velikost avtomobilov, oziroma še raje uporabljajo večja vozila za prevoz večih uslužbencev.
+
+![Manjsa18](images/manjsa_vozila_2018.png)
 
 ### Ali se Slovenci v zadnjih letih raje odločajo za električna vozila?
 Pri tej hipotezi naju je zanimalo ali se število električnih avtomobilov v Sloveniji povečuje. Glede na to, da so se električni avtomobili v zadnjih letih zelo razvili ter so sedaj veliko bolj učinkoviti, močnejši ter cenejši kot včasih, sva pričakovala narastek v registracijah električnih avtomobilov.
 
-Vzela sva podatke iz let 2012, 2015, 2018 in prvih dveh mesecev leta 2019, da bi lahko primerjala število električnih avtomobilov skozi leta. Izkazalo se je, da sva sklepala pravilno.
+Izkazalo se je, da sva sklepala pravilno.
 Število na novo registriranih električnih avtomobilov iz leta v leto narašča.
 Leta 2012 je bilo namreč registriranih le 24 takšnih osebnih vozil, leta 2015 je to število krepko naraslo na 144 električnih avtomobilov, leta 2018 pa je bilo registriranih 569 električnih avtomobilov.
 V januarju in februarju letošnjega leta je bilo registriranih že 99 električnih osebnih vozil, kar je več kot celega leta 2012.
