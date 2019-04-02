@@ -16,7 +16,7 @@ Podatki so beleženi od leta 2012 naprej, zaradi velike količine pa sva, kot se
 Za branje podatkov sva uporabila knjižnico pandas, ki omogoča enostavno branje formata csv. Ker podatki vsebujejo tudi šumnike, sva uporabila encoding cp1252.
 
 ## Opis atributov in vrednosti
-Za najine potrebe, vsi stolpci niso bili potrebni. Iz podatkov iz let 2015, 2018 in 2019 sva vzela le naslednje stolpce:
+Za najine potrebe vsi stolpci niso bili potrebni. Iz podatkov iz let 2015, 2018 in 2019 sva vzela le naslednje stolpce:
 
 * Datum prve registracije, kjerkoli in nato še samo v SLO - zvezna atributa
 * Status vozila - diskretni atribut (odjavljeno, registrirano, v postopku)
