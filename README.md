@@ -17,7 +17,7 @@ Podatki so beleženi od leta 2012 naprej, zaradi velike količine pa sva, kot se
 Za branje podatkov sva uporabila knjižnico pandas, ki omogoča enostavno branje formata csv. Ker podatki vsebujejo tudi šumnike, sva uporabila encoding cp1252.
 
 ## Opis atributov in vrednosti
-Za najine potrebe vsi stolpci niso bili potrebni. Iz podatkov iz let 2015, 2018 in 2019 sva vzela le naslednje stolpce:
+Za najine potrebe vsi stolpci niso bili potrebni. Podatki iz leta 2012 so bili zapisani v drugačni obliki kot iz ostalih let, zato sva tam vzela vse stolpce. Pri podatkih iz let 2015, 2018 in 2019 pa sva vzela le naslednje stolpce:
 
 * Datum prve registracije, kjerkoli in nato še samo v SLO - zvezna atributa
 * Status vozila - diskretni atribut (odjavljeno, registrirano, v postopku)
@@ -36,16 +36,14 @@ Za najine potrebe vsi stolpci niso bili potrebni. Iz podatkov iz let 2015, 2018 
 * Dolžina, širina in višina - zvezni atributi
 * Leto izdelave - diskretni atribut
 
-Ker so bile leta 2012 drugačne oznake in manj stolpcev, sva iz tistih podatkov vzela vse stolpce.
-
 ## Vprašanja oz. hipoteze
 
 Poskušala bova odgovoriti na naslednja vprašanja:
 
-* Kakšne so razlike pri registriranih avtomobilih med obema spoloma (ali moški kupujejo močnejše, večje avtomobile, ali ženske bolj gledajo na porabo kot moški, itd.)?
 * Razlika po številu na novo registriranih dizelskih in benzinskih avtomobilov v zadnjih šestih letih?
 * Ali v večjih mestih prevladujejo manjši avtomobili proti večjim?
 * Kakšne avtomobile raje kupujejo mladi vozniki (glede na nazivno moč, porabo, ...)?
+* Kako spol vpliva na izbiro osebnega avtomobila (ali moški kupujejo močnejše avte, ženske varčnejše)?
 * V katerem starostnem obdobju se prebivalci Slovenije raje odločajo za električna vozila, ali na to vpliva tudi spol?
 * Ali se Slovenci v zadnjih letih raje odločajo za električna vozila?
 
